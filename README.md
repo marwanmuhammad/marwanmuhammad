@@ -1,14 +1,34 @@
 <h1 align="center">Marwan Mohamed Fathy</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="center">DevSecOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="marwanmuhammad" /> </p>
 
 - 📫 How to reach me **email: marwan.muhammad.fathy@gmail.com , Phone: 01555304546**
-- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/marwan-mohammad/](https://www.linkedin.com/in/marwan-mohammad/)
-
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/marwan-mohammad/](https://www.linkedin.com/in/marwan-mohammad/) 
+  
+## 📜 Certificates
 <p align="left">
-<a href="https://www.linkedin.com/in/marwan-mohammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwan-mohammad/" height="30" width="40" /></a>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e42a94bd-eb78-4cb6-86bf-237dc0ddf9d2" />     
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1e89ff8-2709-46b2-83fe-b4d9ad131285" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/53ace5b4-bf22-444a-8080-5d96108fab87" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef8f2ecb-2edf-46d9-9d93-890283c510e2" />
+<img width="300" height="300" alt="Huawei Cloud Developer Associate" src="https://github.com/user-attachments/assets/fe54e138-5a14-4d7b-b3f4-02da646b9244" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4b69c7a0-2f5d-4157-8360-4258dd4a5308" />
+<img width="310" height="320" alt="image" src="https://github.com/user-attachments/assets/91f5774d-8e20-48f5-8ffb-6abbaab2b9e9" />
+<img width="300" height="300" alt="CCNA" src="https://github.com/user-attachments/assets/7f97e6f9-8676-4c8e-b044-2be92b0e1535" />
+<img width="300" height="300" alt="CEH-Certificate" src="https://github.com/user-attachments/assets/42f28c36-f391-4251-acf7-7e81e44db6cc" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d3a99a1f-9585-419a-8ae1-f80bb96c0f83" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3b524c4a-ea90-45b6-b3f7-c052777f00bf" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fae5032b-bb07-44af-bf9a-3d850f11d191" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2537b807-000b-4736-bd14-bb7559612c78" />
+<img width="300" height="300" alt="ISTQB Testing Certificate" src="https://github.com/user-attachments/assets/a43ced5e-d518-424e-b9da-7085af5ee1cd" />
+<img width="300" height="300" alt="Test Automation" src="https://github.com/user-attachments/assets/5c83e7b9-ec72-44b7-a102-5a146abb5cf3" />
+
+
+</p>
+
+
+    
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
